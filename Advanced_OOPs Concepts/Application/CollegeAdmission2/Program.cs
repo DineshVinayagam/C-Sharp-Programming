@@ -6,19 +6,7 @@
      {
 
         Operations.StartEvent();
-       //Files.Create();
        
-       //Files.ReadFile();
-       
-       //Operations.DefaultDepartment();
-       
-       //Operations.DefaultStudents();
-
-       //Operations.DefaultAdmission();
-       
-       //Operations.MainMenu();
-
-       Files.WriteToFiles();
 
       }
   }
